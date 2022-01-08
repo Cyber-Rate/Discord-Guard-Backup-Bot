@@ -15,7 +15,7 @@ Silinen Roller 10 Saniye İçerisinde Listelenecektir Ve Butonlar Yardımıyla R
 ![image](https://user-images.githubusercontent.com/65469887/148643048-2a4ea5d2-4373-430b-8f53-48eeb099cb87.png)
 
 
-Bot İçerisinde: Rol/Kanal/Sunucu Ayarları Kısa Guard Botunda Olması Gereken Herşey Var.
+Bot İçerisinde: Rol/Kanal/Sunucu Ayarları Kısaca Guard Botunda Olması Gereken Herşey Var.
 
 Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı 70 Star ve 30 Fork Olduğu Zaman Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
 
