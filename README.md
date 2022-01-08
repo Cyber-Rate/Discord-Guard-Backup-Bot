@@ -1,16 +1,11 @@
 Merhaba Arkadaşlar Eski Guard Botumu Paylaşmaya Karar Verdim.
 
-Kanal Silme/Oluşturma/Güncelleme
-
-Rol Silme/Oluşturma/Güncelleme
-
-Sunucu Ayarları Güncelleme
-
-Webhook Açma/Silme
-
-Url Değiştirme
-
-Emoji Silme
+Kanal Silme/Oluşturma/Güncelleme\n
+Rol Silme/Oluşturma/Güncelleme\n
+Sunucu Ayarları Güncelleme\n
+Webhook Açma/Silme\n
+Url Değiştirme\n
+Emoji Silme\n
 
 
 Not: Sesteki Kişilerin Sağ Tıkla Bağlantı Kesmesini Engellemek İçin Bir Sistem Var Botun İçinde Limite Ulaşında Yetkilerini Çekiyor (Bunu Neden Ekledim Bilmiyorum Ama İşe Yarıyordu)
