@@ -1,16 +1,26 @@
 Merhaba Arkadaşlar Eski Guard Botumu Paylaşmaya Karar Verdim.
 
 Kanal Silme/Oluşturma/Güncelleme
+
 Rol Silme/Oluşturma/Güncelleme
+
 Sunucu Ayarları Güncelleme
+
 Webhook Açma/Silme
+
 Url Değiştirme
+
 Emoji Silme
+
+
 Not: Sesteki Kişilerin Sağ Tıkla Bağlantı Kesmesini Engellemek İçin Bir Sistem Var Botun İçinde Limite Ulaşında Yetkilerini Çekiyor (Bunu Neden Ekledim Bilmiyorum Ama İşe Yarıyordu)
 
 Başlıca Özellikleri;
+
 Rol Silindiğinde Kendi Açar Ve Herkese Dağıtır.
+
 Web Tarayacısından Rol Sekmesine Giriş Yapınca Log Atıyor.
+
 Rol Silen Kişi Eğer Bot İle Aynı Yetkiye Sahipse Taç Hesabından Bot Otomatik Şekilde Yasaklıyor.
 
 Web Tarayıcısından Giriş Durumunda Loga Attığı Mesaj;
