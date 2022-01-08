@@ -1,0 +1,31 @@
+{
+"Owner": "",
+"GuildOwner": "",
+"Guild_ID": "",
+"Guild_Vanity_Url": "",
+"LogChannels": "",
+"MongoUrl": "",
+"Whitelist": [""],
+
+"Guard": {
+"Guard": "",
+"GuardTokens": [""],
+"Status": ""
+},
+  
+"Base": {
+"Base": "",
+"BaseTokens": [""],
+"Status": ""
+},
+  
+"Limit": {
+"RoleCreate": "3",
+"RoleDelete": "1",
+"ChannelCreate": "3",
+"ChannelDelete": "2",
+"WhitelistAdd": "4",
+"Disconnect": "4",
+  
+}
+}
