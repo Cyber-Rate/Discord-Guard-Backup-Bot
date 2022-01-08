@@ -10,13 +10,13 @@
 "Guard": {
 "Guard": "",
 "GuardTokens": [""],
-"Status": ""
+"Status": "",
 },
   
 "Base": {
 "Base": "",
 "BaseTokens": [""],
-"Status": ""
+"Status": "",
 },
   
 "Limit": {
