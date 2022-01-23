@@ -19,4 +19,6 @@ Bot İçerisinde: Rol/Kanal/Sunucu Ayarları Kısaca Guard Botunda Olması Gerek
 
 Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı 70 Star ve 30 Fork Olduğu Zaman Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
 
+<img src="https://komarev.com/ghpvc/?username=Discord-Guard-Backup-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Cyber-Woxy/Discord-Guard-Backup-Bot" />
+
 https://discord.gg/rate
