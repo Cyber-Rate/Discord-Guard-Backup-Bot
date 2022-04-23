@@ -1,23 +1,33 @@
 Merhaba Arkadaşlar Eski Guard Botumu Paylaşmaya Karar Verdim.
 
 Başlıca Özellikleri;
+ Rol Açma Koruma
+ Rol Silme KorumaKoruma
+ Rol Güncelleme 
+ Kanal Oluşturma Koruma
+ Kanal Silme Koruma
+ Kanal Güncelleme Koruma
+ Sunucu Güncelleme Koruma
+ Üye Güncellenme Koruma
+ Ban Koruma
+ Kick Koruma
+ Ban Açma Koruma
+ Bot Koruma
+ Url Koruma
+ Sekme Koruma
+ 
+ ![image](https://user-images.githubusercontent.com/65469887/164894400-b435df13-a92c-47a5-996a-63b973452643.png) **Guard Menüsü**
+ ![image](https://user-images.githubusercontent.com/65469887/164894643-1c116e8e-750b-4412-a66e-02dfcf3c68c0.png) **Url Koruması**
 
-Rol Silindiğinde Kendi Açar Ve Herkese Dağıtır.
-
-Web Tarayacısından Rol Sekmesine Giriş Yapınca Log Atıyor.
-
-Rol Silen Kişi Eğer Bot İle Aynı Yetkiye Sahipse Taç Hesabından Bot Otomatik Şekilde Yasaklıyor.
-
-Web Tarayıcısından Giriş Durumunda Loga Attığı Mesaj;
-![image](https://user-images.githubusercontent.com/65469887/148642870-50457895-8ca8-4401-8982-0253f511fe44.png)
-
-Silinen Roller 10 Saniye İçerisinde Listelenecektir Ve Butonlar Yardımıyla Rolleri Dağıtabilceksiniz;
-![image](https://user-images.githubusercontent.com/65469887/148643048-2a4ea5d2-4373-430b-8f53-48eeb099cb87.png)
 
 
-Bot İçerisinde: Rol/Kanal/Sunucu Ayarları Kısaca Guard Botunda Olması Gereken Herşey Var.
 
-Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı 70 Star ve 30 Fork Olduğu Zaman Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
+Url koruma için spammer olucak bot içinde spammer her saniye proxy değişecek ve url'yi koruyacak.
+
+Bu arada "REST APİ" ile sms cevap sistemi yapmaya çalışacağım (fikir verdiği için acarfx tşk)
+
+
+Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı En Kısa Zamanda Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
 
 <img src="https://komarev.com/ghpvc/?username=Discord-Guard-Backup-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Cyber-Woxy/Discord-Guard-Backup-Bot" />
 
