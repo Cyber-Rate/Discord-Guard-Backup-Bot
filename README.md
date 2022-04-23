@@ -23,12 +23,7 @@ Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı En Kısa
 Ekler: Ban,Kick,Bot Sokma Korumalarıda Mevcut
 ## };
 
-Url koruma için spammer olucak bot içinde spammer her saniye proxy değişecek ve url'yi koruyacak.
-
-Bu arada "REST APİ" ile sms cevap sistemi yapmaya çalışacağım (fikir verdiği için acarfx tşk)
-
-
-Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı En Kısa Zamanda Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
+Botu Satın Almak İsteyenler Discord Üzerinden Ulaşabilir (Cyber Armis#5247)   <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 
 <img src="https://komarev.com/ghpvc/?username=Discord-Guard-Backup-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Cyber-Woxy/Discord-Guard-Backup-Bot" />
 
