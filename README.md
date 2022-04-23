@@ -1,3 +1,14 @@
+ ![image](https://user-images.githubusercontent.com/65469887/164894400-b435df13-a92c-47a5-996a-63b973452643.png) **Guard Menüsü**
+ ![image](https://user-images.githubusercontent.com/65469887/164894643-1c116e8e-750b-4412-a66e-02dfcf3c68c0.png) **Url Koruması**
+
+Url koruma için spammer olucak bot içinde spammer her saniye proxy değişecek ve url'yi koruyacak.
+
+Bu arada "REST APİ" ile sms cevap sistemi yapmaya çalışacağım (fikir verdiği için acarfx tşk)
+
+
+Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı En Kısa Zamanda Paylaşacağım Eklememi İstediğiniz Özellikleri Veya Merak Ettiklerinizi Discord Üzerinden Bana Ulaşarak İletebilirsiniz.
+
+
 ## • Özellikler {
   -  • Rol Koruma **(Silme/Oluşturma/Güncelleme)**
   -  • Kanal Koruma **(Silme/Oluşturma/Güncelleme)**
@@ -11,12 +22,6 @@
 
 Ekler: Ban,Kick,Bot Sokma Korumalarıda Mevcut
 ## };
- 
- ![image](https://user-images.githubusercontent.com/65469887/164894400-b435df13-a92c-47a5-996a-63b973452643.png) **Guard Menüsü**
- ![image](https://user-images.githubusercontent.com/65469887/164894643-1c116e8e-750b-4412-a66e-02dfcf3c68c0.png) **Url Koruması**
-
-
-
 
 Url koruma için spammer olucak bot içinde spammer her saniye proxy değişecek ve url'yi koruyacak.
 
