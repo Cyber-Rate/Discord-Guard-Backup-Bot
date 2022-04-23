@@ -25,8 +25,9 @@ Ekler: Ban,Kick,Bot Sokma Korumalarıda Mevcut
 
 Botu Satın Almak İsteyenler Discord Üzerinden Ulaşabilir (Cyber Armis#5247) <div align="center">
     <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+ Ziyaretçi: 
+<img src="https://komarev.com/ghpvc/?username=Discord-Guard-Backup-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Cyber-Woxy/Discord-Guard-Backup-Bot" />
+ https://discord.gg/rate
+
  </div>
 
-<img src="https://komarev.com/ghpvc/?username=Discord-Guard-Backup-Bot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Cyber-Woxy/Discord-Guard-Backup-Bot" />
-
-https://discord.gg/rate
