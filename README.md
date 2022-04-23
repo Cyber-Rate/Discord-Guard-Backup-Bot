@@ -1,20 +1,22 @@
-Merhaba Arkadaşlar Eski Guard Botumu Paylaşmaya Karar Verdim.
-
-Başlıca Özellikleri;
- Rol Açma Koruma
- Rol Silme KorumaKoruma
- Rol Güncelleme 
- Kanal Oluşturma Koruma
- Kanal Silme Koruma
- Kanal Güncelleme Koruma
- Sunucu Güncelleme Koruma
- Üye Güncellenme Koruma
- Ban Koruma
- Kick Koruma
- Ban Açma Koruma
- Bot Koruma
- Url Koruma
- Sekme Koruma
+## • Özellikler {
+  -  • Rol Oluşturma Koruma
+  -  • Rol Silme Koruma
+  -  • Rol Güncelleme Koruma
+  -  • Kanal Oluşturma Koruma
+  -  • Kanal Silme Koruma
+  -  • Kanal Güncelleme Koruma
+  -  • Sunucu Güncelleme Koruma
+  -  • Ban Koruma
+  -  • Kick Koruma
+  -  • Ban Açma Koruma
+  -  • Bot Koruma
+  -  • Güvenli Sistemi
+  -  • Url Koruma
+  -  • Sekme Koruma
+  -  • Sms Bildirim Sistemi
+  -  • Otomatik Rol Dağıtma Sistemi
+  -  • 2. Sunucuya Url Spamlama
+## };
  
  ![image](https://user-images.githubusercontent.com/65469887/164894400-b435df13-a92c-47a5-996a-63b973452643.png) **Guard Menüsü**
  ![image](https://user-images.githubusercontent.com/65469887/164894643-1c116e8e-750b-4412-a66e-02dfcf3c68c0.png) **Url Koruması**
