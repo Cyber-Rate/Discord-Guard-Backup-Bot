@@ -23,7 +23,7 @@ Başlıca Birkaç Şeyin Ekran Görüntülerini Paylaştım Altyapıyı En Kısa
 Ekler: Ban,Kick,Bot Sokma Korumalarıda Mevcut
 ## };
 
-Botu Satın Almak İsteyenler Discord Üzerinden Ulaşabilir (Cyber Râte#2404) 
+Botu Satın Almak İsteyenler Discord Üzerinden Ulaşabilir (Cyber Râte#0212) 
 <div align="center">
     <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
   <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%20<3-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
